@@ -1,5 +1,4 @@
-# nowplaying vinyl holder
-
+# nowplaying vinyl record holder
 
 
 Where to put the vinyl record sleeve while it is spinning on the record player? Until now, the sleeve has been placed next to the record player. In itself a good place and no problem, but there are also smart holders on the Internet. These usually display the words “Now playing” or “Now spinning” and hold the record on the wall, on the sideboard or wherever by means of a suitably shaped wooden, acrylic or metal structure. I found that boring, so I had to find another solution.
@@ -31,3 +30,8 @@ This script can then be called via linux cronjob
 `*/3 * * * * php /usr/local/bin/senddata_example.php`
 
 The code for the NodeMCU is relatively straightforward so far. The WLAN access data still has to be permanently assigned in the code. I use the Parola Library for the MAX7219. For the BME280 the library from Adafruit. The switch is connected to D0 and GND.
+
+## the holder
+
+![hand drawing](hand_drawing_hold_.jpg)
+![ninyl stand switch](hold_switch.jpg)
