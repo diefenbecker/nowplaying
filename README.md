@@ -1,6 +1,10 @@
 # nowplaying vinyl holder
 
+
+
 Where to put the vinyl record sleeve while it is spinning on the record player? Until now, the sleeve has been placed next to the record player. In itself a good place and no problem, but there are also smart holders on the Internet. These usually display the words “Now playing” or “Now spinning” and hold the record on the wall, on the sideboard or wherever by means of a suitably shaped wooden, acrylic or metal structure. I found that boring, so I had to find another solution.
+
+![ninyl stand](nowplaying.jpg)
 
 If there's already a holder like this standing around, it can do something while there's no record sleeve in it. What could be more obvious than to use a microcontroller with a display? The result is a first prototype of my “Now Spinning” record holder.
 
