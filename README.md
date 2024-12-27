@@ -33,5 +33,11 @@ The code for the NodeMCU is relatively straightforward so far. The WLAN access d
 
 ## the holder
 
+The groove to hold the plate was made with the saw blade of the circular table saw set at a slight angle and is about 1 cm wide. The front cut-out to accommodate the NodeMCU and the display was milled with the router.
+
+I attached the button from below in a hole drilled in two stages with hot glue. In the picture below you can see the button as a small black thing. The cables of the switch are then laid diagonally to the front in the milled hole.
+
+The connection cable runs through a hole under the groove for the plate and then also diagonally upwards into the cut-out. I used a normal micro USB cable, cut it and soldered it back together.
+
 ![hand drawing](hand_drawing_hold_.jpg)
 ![ninyl stand switch](hold_switch.jpg)
